@@ -1,0 +1,17 @@
+h1 {
+    color: orange;
+}
+p {
+    color: indianred;
+}
+li {
+    color: black;
+}
+a {
+    color: green;
+    background: indianred;
+}
+q {
+    color: lightblue;
+    background: black;
+}
